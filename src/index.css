@@ -1,0 +1,16 @@
+@import "tailwindcss";
+:root {
+    --font-family: "Roboto", sans-serif;
+    --second-family: "JejuMyeongjo", sans-serif;
+    --third-family: "Inter", sans-serif;
+    --font3: "Road Rage", sans-serif;
+    --font4: "Instrument Sans", sans-serif;
+    --font5: "Alatsi", sans-serif;
+  }
+
+  *{
+    /* margin:0px; */
+    /* padding:0px; */
+    box-sizing: border-box;
+
+  }
