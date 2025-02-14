@@ -1,7 +1,7 @@
 import React from 'react'
 import ticz from '../assets/ticz.png'
-import vector from '../assets/vector.png'
-import line5 from '../assets/logo.png'
+import logo from '../assets/logo.png'
+import line5 from '../assets/Line5.png'
 
 const Navbar = () => {
   return (
