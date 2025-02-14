@@ -1,7 +1,7 @@
 import React from 'react'
 import ticz from '../assets/ticz.png'
 import vector from '../assets/vector.png'
-import line5 from '../assets/line5.png'
+import line5 from '../assets/logo.png'
 
 const Navbar = () => {
   return (
@@ -12,7 +12,7 @@ const Navbar = () => {
       <div class="w-[91px] h-[36px] flex justify-evenly item-center">
         <div class="border border-solid border-[#0e464f] py-1.5 px-2
            rounded-2xl w-[45px] h-[30px] bg-[#052f35] flex justify-center item-center">
-          <img src={vector} alt="" />
+          <img src={logo} alt="" />
           </div>
         <img src={ticz} alt="" />
       </div>
